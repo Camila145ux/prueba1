@@ -22,3 +22,8 @@
     height: 150px;
     border: 1px solid black;
 }
+
+.cuadro1 img {
+    width:100% ;
+    height: 100%;
+}
