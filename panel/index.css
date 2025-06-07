@@ -6,3 +6,19 @@
     margin:auto;
 }
 
+.cuadros {
+    grid-template-columns: 220px 220px;
+    grid-template-rows: 200px 200px;
+    display: grid;
+    width: 350px;
+    height: 350px;
+    align-items: center;
+    margin-left: 7rem;
+}
+
+.cuadro1 {
+    display: flex;
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+}
